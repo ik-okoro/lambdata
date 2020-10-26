@@ -1,2 +1,2 @@
-# nofan
-Tinkering with a package for some DS functions
+# lambdata
+Tinkering with a package called nofan for some DS functions
